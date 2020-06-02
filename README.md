@@ -5,7 +5,7 @@ heroText: ReSeT Wiki
 tagline: Tož prostě wiki na ReSeT
 actionText: Přejít →
 actionLink: /server/
-footer: ReSeT Wiki | © 2020
+footer: ReSeT Network Wiki | © 2020
 ---
 
 
