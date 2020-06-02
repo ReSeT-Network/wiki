@@ -1,2 +1,18 @@
-# ReSeT wiki
-Wiki Minecraft serveru ReSeT
+---
+home: true
+heroImage: https://files.reset.best/s/kiGojy889fd8EL4/preview
+heroText: ReSeT Wiki
+tagline: Tož prostě wiki na ReSeT
+actionText: Přejít →
+actionLink: /server/
+footer: ReSeT Wiki | © 2020
+---
+
+
+
+
+
+
+
+
+
