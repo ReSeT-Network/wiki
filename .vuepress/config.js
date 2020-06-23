@@ -1,7 +1,7 @@
 module.exports = {
   head: [
       ['link', { rel: 'icon', href: 'https://files.reset.best/s/kiGojy889fd8EL4/preview' }]
-  ],            
+  ],
   title: "ReSeT Wiki",
   description: "Wiki ReSeTu",
   theme: 'thindark',
@@ -32,7 +32,8 @@ module.exports = {
         path: '/creative/',
         collapsable: false,
         children: [
-          '/creative/'
+          '/creative/',
+          '/creative/worldedit'
         ]
       },
       {
