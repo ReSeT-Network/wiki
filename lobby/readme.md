@@ -1,3 +1,3 @@
-# Lobby
+# Základní informace
 
-nejake info o lobby
+soon

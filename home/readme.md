@@ -1,6 +1,6 @@
-# Servery
+# Základní informace
 
-## IP adresa 
+## IP adresa
 
 ```
 mc.reset.best

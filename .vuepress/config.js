@@ -10,33 +10,48 @@ module.exports = {
     nav: [
       { text: 'Web', link: 'https://reset.best' }
     ],
-    /*sidebar: [
+    sidebar: [
       {
         title: 'Domů',
         path: '/home/',
         collapsable: false,
+        children: [
+          '/home/'
+        ]
       },
       {
         title: 'Lobby',
-        path: '/Lobby/',
+        path: '/lobby/',
         collapsable: false,
+        children: [
+          '/lobby/'
+        ]
       },
       {
         title: 'Creative',
         path: '/creative/',
         collapsable: false,
+        children: [
+          '/creative/'
+        ]
       },
       {
         title: 'Technic 1.12',
         path: '/technicpack/',
         collapsable: false,
+        children: [
+          '/technicpack/'
+        ]
       },
       {
         title: 'Skyblock',
         path: '/skyblock/',
         collapsable: false,
+        children: [
+          '/skyblock/'
+        ]
       }
-    ]*/
+    ]
   },
   plugins: ['vuepress-theme-cool@1.2.0']
 }

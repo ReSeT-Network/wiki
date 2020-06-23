@@ -1,4 +1,4 @@
-# TechnicPack
+# Základní informace
 
 ## Důležíté inforamce
 
