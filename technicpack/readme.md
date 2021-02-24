@@ -1,6 +1,6 @@
 # Základní informace
 
-## Důležíté inforamce
+## Důležíté informace
 
 1. Těžební svět bude pravidelně obnovován. (Obnovení bude oznámeno 14 dní dopředu)
 2. Pokud chcete používat v modpacku nějaké módy navíc, musíte to oznámit uživateli Krosta8, který rozhodne, zda se mod přidá na Whitelist (jinak vás to na server nepustí s módem navíc) 
